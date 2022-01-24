@@ -1,0 +1,108 @@
+<!--
+inspiration from https://dev.to/icesofty/firebase-x-axios-x-js-let-s-create-a-simple-synchronized-clicks-counter-41co
+the ideas are mine and mine alone (especially meta refresh, binary, and UX)
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"
+      defer
+    ></script>
+
+    <script src="./click-counter.js" defer></script>
+
+    <title>  &#129410; Scorpion</title>
+
+
+<meta http-equiv="refresh" content="2.5">
+
+
+  </head>
+
+  <body style="background-color: #f8d664;">
+
+  <div style="text-align:center"> 
+
+
+ <h1 style="color:black;">SCORPION  &#129410;</h1>
+
+  <button onclick="pauseshow()">Stop Auto-Refresh</button>
+
+  <script>
+ function pauseshow()
+{
+    window.stop();
+
+}
+ </script>
+
+<p> </p>
+
+<!--
+ <button id="reversebtn"> &#11013; Previous Page
+  </button>
+
+ <h2 style="display: inline-block", id="reverse"></h2> -->
+  <h2 style="display: inline-block">Next Page</h2> 
+  <h2 style="display: inline-block", id="page"></h2>
+  
+
+   <button id="pagebtn">
+  Next Page &#9193;
+  </button>
+
+<p> </p>
+
+
+
+ <button id="colourbtn">
+ &#128288;
+  </button>
+   <h3 style="display: inline-block"> Font Colour Issues: </h3> 
+   <h3 style="display: inline-block", id="colour"></h3>
+  <p> </p>
+
+
+  <button id="bckgrndbtn">
+  &#11036;
+  </button>
+   <h3 style="display: inline-block"> Background Colour Issues: </h3>
+   <h3 style="display: inline-block", id="bckgrnd"></h3>
+  <p> </p>
+  
+  
+ <button id="grammarbtn">
+ &#129300;
+  </button>
+   <h3 style="display: inline-block"> Word Issues: </h3>  
+    <h3 style="display: inline-block", id="grammar"></h3>
+  <p> </p>
+
+
+ <button id="alignmentbtn">
+ &#128203;
+  </button>
+  <h3 style="display: inline-block"> Layout Issues:  </h3> 
+   <h3 style="display: inline-block", id="alignment"></h3>
+  <p> </p>
+
+
+
+
+ <img src="whiteboard.png" alt="whiteboard"  width="300" height="200" align="left">
+
+<!--
+<img src="howtouse.png" alt="howtouse" width="300" height="200"  align="right">
+ -->
+ 
+ <h1 style="color:black;">Slide Coordinator to Review Presentation Items Optionally and Nonverbally      &#9807;</h1>
+
+
+
+ 
+  </body>
+  
+</html>
