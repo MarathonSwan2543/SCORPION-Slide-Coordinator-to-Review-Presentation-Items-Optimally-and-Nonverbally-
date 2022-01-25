@@ -1,5 +1,5 @@
 # SCORPION-Slide-Coordinator-to-Review-Presentation-Items-Optimally-and-Nonverbally-
-This repository shows groupware for users to edit presentation slides without seeing each other face-to-face. The developed groupware aims to make remote editing of presentation slides quicker and less distracting than existing means, given some presumptions. It also determines if it is function-wise satisfactory.
+This repository shows groupware for users to edit presentation slides without seeing each other face-to-face. The developed groupware aims to make remote editing of presentation slides quicker and less distracting than existing means, given some presumptions. 
 
 Presumptions.pdf shows some of the presumptions users need to be aware of before using SCORPION.
 
