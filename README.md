@@ -1,5 +1,5 @@
 # SCORPION-Slide-Coordinator-to-Review-Presentation-Items-Optimally-and-Nonverbally-
-For my undergraduate graduation research project, I created groupware for users to edit presentation slides without seeing each other face-to-face. The developed groupware aims to make remote editing of presentation slides quicker and less distracting than LINE, given some presumptions. 
+For my undergraduate graduation research project, I created groupware for users to edit presentation slides without seeing each other face-to-face to make remote editing of presentation slides quicker and less distracting than LINE, given some presumptions. 
 
 Presumptions.pdf shows some of the presumptions users need to be aware of before using SCORPION.
 
