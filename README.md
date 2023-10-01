@@ -1,5 +1,5 @@
 # SCORPION-Slide-Coordinator-to-Review-Presentation-Items-Optimally-and-Nonverbally-
-This is groupware to make the remote editing of presentation slides quicker and less distracting than LINE when given a set of presumptions. 
+This is groupware to make the remote editing of presentation slides quicker and less distracting than LINE, when given a set of presumptions. 
 
 Presumptions.pdf shows some of the presumptions users need to be aware of before using SCORPION.
 
