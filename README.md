@@ -7,7 +7,7 @@ Demo.mp4 shows how SCORPION works. What I am doing on the left-hand side is show
 
 **References**
 
-The inspiration is from https://dev.to/icesofty/firebase-x-axios-x-js-let-s-create-a-simple-synchronized-clicks-counter-41co, but its meta refresh and decimal-to-binary conversion function, as well as its user interface, are my original ideas.
+The inspiration is from https://dev.to/icesofty/firebase-x-axios-x-js-let-s-create-a-simple-synchronized-clicks-counter-41co, but its meta refresh and decimal-to-binary conversion functions, as well as its user interface, are my original ideas.
 
 :)
 
