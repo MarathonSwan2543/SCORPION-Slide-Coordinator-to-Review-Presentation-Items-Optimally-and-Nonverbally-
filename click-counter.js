@@ -23,7 +23,7 @@ const finishedbtn = document.getElementById("finishedbtn");
 const counterID5 = document.getElementById("finished");
 
 
-const firebase = "https://test-63c60-default-rtdb.firebaseio.com/"; //Uses Firebase RealTime Database.
+const firebase = "https://test-6e2a8-default-rtdb.firebaseio.com/"; //Uses Firebase RealTime Database.
 
 
 //Page Counter
